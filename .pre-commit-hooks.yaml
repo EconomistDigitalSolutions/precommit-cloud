@@ -14,3 +14,8 @@
     description: Lint Cloudformation templates.
     entry: lint-cf.sh
     language: script
+-   id: go-vet
+    name: go-vet
+    description: Run go vet across all directories
+    entry: go-vet.sh
+    language: script
