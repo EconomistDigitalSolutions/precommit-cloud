@@ -13,7 +13,6 @@
     name: lint-cf
     description: Lint Cloudformation templates.
     entry: lint-cf.sh
-    verbose: true
 -   id: go-vet
     name: go-vet
     description: Run go vet across all directories
